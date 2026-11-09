@@ -1,7 +1,7 @@
-
 LINUX SECURITY LOG ANALYSIS AND SUSPICIOUS LOGIN DETECTION
 
 Project Overview
+
 This project demonstrates basic SOC Analyst activities using Linux commands and Bash scripting.It analyzes authentication logs to identify failed login attempts, successdul logins, and potentially suspicious IP addresses.
 
 Tools and Technologies
@@ -25,8 +25,9 @@ Investigation Findings
 - IP 192.168.1.60: 2 failed attempts and 1 successful login
 
 Conclusion
+
 The analysis identified repeated failed login attempts from specific IP addresses. These findings require further investigation before determining whether unauthorized access occured.
 
 Disclaimer
-This project uses simulated authentication log data for educational purposes.
 
+This project uses simulated authentication log data for educational purposes.
