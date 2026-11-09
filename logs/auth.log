@@ -1,0 +1,7 @@
+Nov 07 09:10:12 kali sshd[1024]: Failed password for admin from 192.168.1.50
+Nov 07 09:10:15 kali sshd[1025]: Failed password for admin from 192.168.1.50 
+Nov 07 09:10:20 kali sshd[1026]: Accepted password for analyst from 192.168.1.20
+Nov 07 09:12:30 kali sshd[1027]: Failed password for root from 192.168.1.60
+Nov 07 09:12:35 kali sshd[1028]: Failed password for root from 192.168.1.60
+Nov 07 09:13:00 kali sshd[1029]: Accepted password for analyst from 192.168.1.60
+Nov 07 09:15:10 kali sshd[1030]: Failed password for admin from 192.168.1.50

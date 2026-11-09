@@ -1,0 +1,32 @@
+SOC INCIDENT INVESTIGATION REPORT
+
+1. Incident Summary
+Multiple failed login attempts were detected in the authentication logs.
+
+2. Ecidence Collected
+Total failed login attempts: 5
+Total successful login attempts: 2
+
+3. Suspicious Activity 
+IP Address: 192.168.1.50
+Failed login attempts: 3
+
+IP Address: 192.168.1.60
+Failed login attempts: 2
+Successful login attempts: 1
+
+4. Investigation Findings
+The IP address 192.168.1.60 had both failed and successful login attempts.
+Further investigation is required.
+
+5. Recommended Actions
+Review the affected user account.
+Investigate related authentication logs.
+Monitor the suspicious IP addresses.
+Escalate according to security procedures if necessary.
+
+6. Conclusion
+Suspicious login activity was identified.
+The available evidence requires further investigation.
+
+Suspicious IP: 192.168.1.50 - 3 failed login attempts
